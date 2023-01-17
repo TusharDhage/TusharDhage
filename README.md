@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tushar.dhage95@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1cJG5Og-WJf8CDatOWlGBE9SF1S4V0zr2]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L15XdkniwH3XeRUtRIm6tc826tzSXViu/view?usp=share_link]
 
 ## 🛠 Skills
 Selenium, Appium, Rest Assured, Docker, Gitlab, Git, AWS DeviceFarm, Java, BDD Framework, TDD Framework...
