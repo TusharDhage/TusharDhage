@@ -1,4 +1,4 @@
-![MasterHead](https://t3.ftcdn.net/jpg/01/96/03/94/360_F_196039475_6MbF6oSsJJIQdSkS5sBUl52JfvYVSeNP.jpg)
+![MasterHead](https://d585tldpucybw.cloudfront.net/sfimages/default-source/2017-06/reliable-web-element-locators.jpg?sfvrsn=6b27944b_1)
 <h1 align="center">Hi 👋, I'm Tushar Dhage</h1>
 <h3 align="center">A passionate Automation QA Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/720/0*yVqaoB4N64ZrBXWo.gif">
