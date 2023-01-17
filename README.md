@@ -1,4 +1,4 @@
-![MasterHead](https://labs.sogeti.com/wp-content/uploads/2015/07/test-automation.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/01/96/03/94/360_F_196039475_6MbF6oSsJJIQdSkS5sBUl52JfvYVSeNP.jpg)
 <h1 align="center">Hi 👋, I'm Tushar Dhage</h1>
 <h3 align="center">A passionate Automation QA Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/720/0*yVqaoB4N64ZrBXWo.gif">
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tushar.dhage95@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1cJG5Og-WJf8CDatOWlGBE9SF1S4V0zr2](https://drive.google.com/drive/u/0/folders/1cJG5Og-WJf8CDatOWlGBE9SF1S4V0zr2)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1y5eXB2nm0IGpxJtQS47twOhEyADSlHL5/edit]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
