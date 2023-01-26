@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushardhage&label=Profile%20views&color=0e75b6&style=flat" alt="tushardhage" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tushardhage14" target="blank"><img src="https://img.shields.io/twitter/follow/tushardhage14?logo=twitter&style=for-the-badge" alt="tushardhage14" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TusharDhage14" target="blank"><img src="https://img.shields.io/twitter/follow/TusharDhage14?logo=twitter&style=for-the-badge" alt="TusharDhage14" /></a> </p>
 
 - 🔭 I’m currently working on [CoinZoom.inc](https://www.coinzoom.com/)
 
