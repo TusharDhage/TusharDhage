@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/TusharDhage14" target="blank"><img src="https://img.shields.io/twitter/follow/TusharDhage14?logo=twitter&style=for-the-badge" alt="TusharDhage14" /></a> </p>
 
-- 🔭 I’m currently working on [CoinZoom.inc](https://www.coinzoom.com/)
+- 🔭 I’m currently working on [Vector Solutions](https://www.vectorsolutions.com/)
 
 - 🌱 I’m currently learning **Rest Assured API Automation**
 
