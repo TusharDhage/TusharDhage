@@ -18,7 +18,7 @@
 - 🌱 Currently mastering **Playwright · Python · AI-Powered Test Automation**
 - 💬 Ask me about **Playwright · Selenium · Appium · pytest · GitHub Actions · Docker · BDD · API Testing**
 - 📫 Reach me at **tushar.dhage95@gmail.com**
-- 📄 My resume: [View here]([https://drive.google.com/file/d/1dzuy7mjOxFgxu3NsxtzPTtWJWf5sLbER/view?usp=share_link](https://drive.google.com/file/d/1fhWqZt0tppsDe8fOI27pJkGSpYHxbT-c/view?usp=drive_link))
+- 📄 My resume: [View here](https://drive.google.com/file/d/1fhWqZt0tppsDe8fOI27pJkGSpYHxbT-c/view?usp=drive_link)
 
 ---
 
