@@ -1,40 +1,124 @@
 ![MasterHead](https://marketplace.canva.com/EAE4d-MUMN0/1/0/1600w/canva-black-minimalist-linkedin-banner-YOajvAl8njI.jpg)
+
 <h1 align="center">Hi 👋, I'm Tushar Dhage</h1>
-<h3 align="center">A passionate Automation QA Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/720/0*yVqaoB4N64ZrBXWo.gif">
+<h3 align="center">SDET | Building AI-Powered Test Automation Frameworks | 5 Years Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushardhage&label=Profile%20views&color=0e75b6&style=flat" alt="tushardhage" /> </p>
+<img align="right" alt="automation" width="380" src="https://miro.medium.com/max/720/0*yVqaoB4N64ZrBXWo.gif">
 
-<p align="left"> <a href="https://twitter.com/TusharDhage14" target="blank"><img src="https://img.shields.io/twitter/follow/TusharDhage14?logo=twitter&style=for-the-badge" alt="TusharDhage14" /></a> </p>
-
-- 🔭 I’m currently working on [Vector Solutions](https://www.vectorsolutions.com/)
-
-- 🌱 I’m currently learning **Rest Assured API Automation**
-
-- 💬 Ask me about **Appium || Selenium Automation**
-
-- 📫 How to reach me **tushar.dhage95@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dzuy7mjOxFgxu3NsxtzPTtWJWf5sLbER/view?usp=share_link]
-
-## 🛠 Skills
-Selenium, Appium, Rest Assured, Docker, Gitlab, Git, AWS DeviceFarm, Java, BDD Framework, TDD Framework...
-
-## <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tushardhage14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushardhage14" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tushar-dhage-34a04313b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-dhage-34a04313b/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tu_shar2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tu_shar2021/" height="30" width="40" /></a>
- <a href="https://tushardhageportfolio.dorik.io/" target="blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="https://tushardhageportfolio.dorik.io/" height="30" width="120" /></a> 
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=tushardhage&label=Profile%20views&color=0e75b6&style=flat" alt="tushardhage" />
+</p>
 
+---
 
-## <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## 🚀 What I'm Working On
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tushardhage&show_icons=true&locale=en" alt="tushardhage" /></p>
+- 🔭 Currently working at **[Vector Solutions](https://www.vectorsolutions.com/)** as an SDET
+- 🧠 Built an **end-to-end Playwright + Python framework** with POM · GitHub Actions CI/CD · Docker · Allure Reports · API Testing · AI Failure Analysis
+- 🌱 Currently mastering **Playwright · Python · AI-Powered Test Automation**
+- 💬 Ask me about **Playwright · Selenium · Appium · pytest · GitHub Actions · Docker · BDD · API Testing**
+- 📫 Reach me at **tushar.dhage95@gmail.com**
+- 📄 My resume: [View here](https://drive.google.com/file/d/1dzuy7mjOxFgxu3NsxtzPTtWJWf5sLbER/view?usp=share_link)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushardhage&" alt="tushardhage" /></p>
+---
 
+## 🏗️ Featured Project
 
+### 🎭 [Playwright Python Demo Framework](https://github.com/TusharDhage/Playwright_Python_Demo)
 
+> Enterprise-grade test automation framework built from scratch — production-ready architecture used in real SDET interviews.
+
+| Feature | Details |
+|---|---|
+| 🧱 Architecture | Page Object Model · BasePage inheritance · AAA pattern |
+| 🌐 Browsers | Chromium · Firefox · WebKit (parallel matrix builds) |
+| ⚙️ CI/CD | GitHub Actions · 3-browser matrix · cache · Slack notifications |
+| 📊 Reporting | Allure Reports · GitHub Pages publishing · pytest-html |
+| 🐳 Docker | Containerised test runs · docker-compose |
+| 🔌 API Testing | requests library · CRUD coverage · response validation |
+| 📂 Data-Driven | CSV + Excel · DataReader class · pytest parametrize |
+| 🤖 AI Layer | Claude API · AI failure analysis · quality gate |
+| 🔐 Config | python-dotenv · environment-based config · CI secrets |
+
+---
+
+## 🛠️ Tech Stack
+
+### Test Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks & Tools
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF6B35?style=for-the-badge&logo=allure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### API & Data
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_Device_Farm-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tushardhage&show_icons=true&theme=tokyonight&locale=en" alt="tushardhage" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushardhage&theme=tokyonight" alt="tushardhage" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tushardhage&layout=compact&theme=tokyonight" alt="tushardhage" width="40%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+  <!-- LinkedIn — most important for SDET job hunting -->
+  <a href="https://www.linkedin.com/in/tushardhage/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Tushar Dhage" height="30" width="120" />
+  </a>
+  &nbsp;
+
+  <!-- GitHub — shows your actual framework code -->
+  <a href="https://github.com/TusharDhage" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — TusharDhage" height="30" width="110" />
+  </a>
+  &nbsp;
+
+  <!-- Instagram — personal brand / behind the scenes -->
+  <a href="https://www.instagram.com/mr.tushardhage/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram — mr.tushardhage" height="30" width="120" />
+  </a>
+  &nbsp;
+
+  <!-- Portfolio website -->
+  <a href="https://tushardhageportfolio.dorik.io/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" height="30" width="120" />
+  </a>
+  &nbsp;
+
+  <!-- Email — direct contact -->
+  <a href="mailto:tushar.dhage95@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tushar" height="30" width="100" />
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Engineers who combine Playwright expertise with AI tools are producing 3-5x more test coverage in the same time."</i>
+</p>
